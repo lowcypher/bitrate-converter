@@ -1,5 +1,6 @@
 # bitrate-converter
 Convertendo bitrate de arquivos mp3 em lote
+(http://www.mariomedeiros.eti.br/artigos/index.php?article44/convertendo-bitrate-de-arquivos-mp3-em-lote-mantendo-nomes-e-outros-atributos)
 
 E eis que um belo dia seu aparelho celular ou smartphone (tanto faz), lhe alerta que você não tem mais espaço para colocar nem mesmo uma musiquinha do tamanho da vinheta de programa televisivo de domingo.
 
